@@ -1,4 +1,4 @@
-# Indian-Agriculture-Crop-Prediction
+# Super Store Sales Dashboard
 
 ## Introduction
 
